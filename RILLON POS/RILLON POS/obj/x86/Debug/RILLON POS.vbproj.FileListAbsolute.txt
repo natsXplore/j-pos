@@ -1,0 +1,34 @@
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.exe
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.pdb
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.xml
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.login.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.Resources.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.exe
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.xml
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.pdb
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.frmMain.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.userForm.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.stockForm.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.cashier.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.receiptForm.resources
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.report.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.exe
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.xml
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.pdb
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.exe.config
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.exe
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.pdb
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.xml
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.cashier.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.frmMain.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.login.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.Resources.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.receiptForm.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.report.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.stockForm.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON_POS.userForm.resources
+C:\Users\Jonathan\Desktop\POSS\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\bin\Debug\RILLON POS.exe.config
+C:\Users\Jonathan\Desktop\Joshua Rillon Pos\RILLON POS\RILLON POS\obj\x86\Debug\RILLON POS.vbprojResolveAssemblyReference.cache
